@@ -1,2 +1,2 @@
 # haskellbookexercises
-Haskell Exercises from haskellbook
+Haskell Exercises from Haskell Programming from first principles
